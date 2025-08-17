@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(155, 40, 40);
+    background-color: rgb(80, 80, 80);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -17,9 +17,26 @@ a{
 img{
     width: 150px;
     height: 150px;
-    border-radius: 50%;
-    border: 5px solid rgb(0, 0, 0);
 }
 .center{
   text-align: center ;  
+}
+.alinhar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.bg1{
+    background-color: rgb(71, 71, 71);
+}
+.bg2{
+    background-color: rgb(95, 95, 95);
+}
+img2{
+    width: 150px;
+    height: 150px;
+}
+img3{
+    width: 150px;
+    height: 150px;
 }

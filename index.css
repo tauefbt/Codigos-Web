@@ -32,11 +32,18 @@ img{
 .bg2{
     background-color: rgb(95, 95, 95);
 }
-img2{
-    width: 150px;
-    height: 150px;
+#imagemprincipal{
+border-radius: 50%;
+border: 2px solid black;
 }
-img3{
-    width: 150px;
-    height: 150px;
+#imagemzap{
+border-radius: 20%;
+margin: 15px;
+}
+#imagemlinkedin{
+border-radius: 20%;
+margin: 15px;
+}
+#imagemgit{
+    margin: 10px;
 }
